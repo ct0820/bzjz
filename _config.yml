@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "包子家族"
-description:	       "很久很久以前,有一座包子山..."
+description:	       "很久很久以前,古老的东方有一座包子山,包子山上住着两个不爱运动的小包子..."
 author:              "菜包&肉包"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
